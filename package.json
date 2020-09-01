@@ -1,0 +1,25 @@
+{
+  "name": "Economy System V1.0.0",
+  "version": "1.0.0",
+  "description": "This bot maked by The Leader and this Beta version i will share new version soon and i will add new features to bot you can ask me any think in discord this my discord account: ! The Leader#0187",
+  "main": "src/bot.js",
+  "scripts": {
+    "start": "node ./src/bot.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "keywords": ["Economy System", "Economy bot", "economy system", "economy bot"],
+  "author": "! The Leader",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "moment": "^2.27.0",
+    "quick.db": "^7.1.1",
+    "express": "^4.17.1",
+    "http": "^0.0.0",
+    "parse-ms": "^2.1.0",
+    "ms": "^2.1.2",
+    "fs": "^0.0.2"
+  }
+}
